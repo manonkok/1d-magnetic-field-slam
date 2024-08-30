@@ -8,6 +8,8 @@ This repository is the official implementation of the methods in the publication
 
 We present a lightweight magnetic field simultaneous localisation and mapping (SLAM) approach for drift correction in odometry paths, where the interest is purely in the odometry and not in map building. We represent the past magnetic field readings as a one-dimensional trajectory against which the current magnetic field observations are matched. This approach boils down to sequential loop-closure detection and decision-making, based on the current pose state estimate and the magnetic field. We combine this setup with a path estimation framework using an extended Kalman filter and smoother which fuse the odometry increments with the detected loop-closure timings. We demonstrate the practical applicability of the model with several different real-world examples from a handheld iPad moving in indoor scenes.
 
+https://github.com/user-attachments/assets/b77933b3-a214-4bcf-8241-0d638c2b8654
+
 ## Dependencies
 
 The codes in this repository have been tested with **Mathworks MATLAB R2024a (Update 1)**. The core functions (those in `src`) do not depend on any additional toolboxes, but helper files in `tools`. The main file runSLAM.m and the plotting file makePlots.m in tools use the procrustes function from the following built-in toolboxes:
