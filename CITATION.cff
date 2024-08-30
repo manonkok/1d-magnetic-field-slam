@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "This code implements the methods in this original publication."
+authors:
+  - family-names: "Kok"
+    given-names: "Manon"
+    orcid: "https://orcid.org/0000-0002-2441-2240"
+  - family-names: "Solin"
+    given-names: "Arno"
+    orcid: "https://orcid.org/0000-0002-0958-7886"
+title: "Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection"
+date-released: 2024-08-30
+url: "https://github.com/manonkok/1d-magnetic-slam"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Kok"
+    given-names: "Manon"
+    orcid: "https://orcid.org/0000-0002-2441-2240"
+  - family-names: "Solin"
+    given-names: "Arno"
+    orcid: "https://orcid.org/0000-0002-0958-7886"
+  journal: "arXiv pre-print: arXiv:xxxx.xxxxx"
+  title: "Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection"
