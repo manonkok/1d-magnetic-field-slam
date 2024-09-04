@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "This code implements the methods in this original publication."
+message: "This code implements the methods in the original publication."
 authors:
   - family-names: "Kok"
     given-names: "Manon"
@@ -19,5 +19,5 @@ preferred-citation:
   - family-names: "Solin"
     given-names: "Arno"
     orcid: "https://orcid.org/0000-0002-0958-7886"
-  journal: "arXiv pre-print: arXiv:xxxx.xxxxx"
+  journal: "arXiv pre-print: arXiv:2409.01091"
   title: "Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection"
