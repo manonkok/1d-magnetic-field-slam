@@ -2,7 +2,7 @@
 
 This repository is the official implementation of the methods in the publication:
 
-* Manon Kok and Arno Solin (2024). **Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**. In *IEEE International Conference on Multisensor Fusion and Integration*.
+* Manon Kok and Arno Solin (2024). **Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**. In *IEEE International Conference on Multisensor Fusion and Integration (MFI)*. [arXiv preprint](https://arxiv.org/abs/2409.01091)
 
 ### Motivation
 
